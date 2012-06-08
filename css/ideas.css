@@ -1,0 +1,21 @@
+.footer {
+	margin-top: 45px;
+	padding: 35px 0 36px;
+	border-top: 1px solid #E5E5E5;
+}
+
+.alert{
+	display: none;
+}
+
+.grey{
+	color: #999;
+}
+
+textarea[name="essential"]{
+	width: 100%;
+}
+
+.idea:hover {
+	background-color: #EFEFEF;
+}
